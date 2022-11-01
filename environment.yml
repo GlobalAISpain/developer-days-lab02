@@ -1,0 +1,15 @@
+name: globalai2
+channels:
+  - default
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - azure-ai-ml
+      - Pillow
+      - ipykernel
+      - azure.identity
+      - python-dotenv
+      - torch
+      - torchvision
+      - matplotlib
