@@ -9,7 +9,7 @@ Además de ver como se puede ejecutar un entrenamiento de un modelo en Azure ML,
 - Subscripción de Azure
 - Servicio de Azure Machine Learning creado
 - Visual Studio Code [descarga](https://code.visualstudio.com/download)
-- Miniconda [descarga](https://code.visualstudio.com/download)
+- Miniconda [descarga](https://docs.conda.io/en/main/miniconda.html)
 
 Pasos adicionales
 
